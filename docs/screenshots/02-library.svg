@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1290' height='2796'>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#161923'/><stop offset='100%' stop-color='#202735'/></linearGradient></defs>
+<rect width='100%' height='100%' fill='url(#bg)'/>
+<rect x='90' y='140' width='1110' height='2520' rx='110' fill='rgba(255,255,255,0.06)' stroke='rgba(255,255,255,0.35)'/>
+<circle cx='860' cy='1250' r='240' fill='#4DB8FF' opacity='0.9'/>
+<text x='180' y='340' fill='white' font-size='76' font-family='Avenir, sans-serif'>Snack Menu</text>
+<text x='180' y='410' fill='#D7DBE8' font-size='40' font-family='Avenir, sans-serif'>Custom visual cards</text>
+<rect x='180' y='520' width='430' height='380' rx='46' fill='rgba(255,255,255,0.16)'/>
+<rect x='680' y='520' width='430' height='380' rx='46' fill='rgba(255,255,255,0.16)'/>
+<rect x='180' y='980' width='430' height='380' rx='46' fill='rgba(255,255,255,0.16)'/>
+<rect x='680' y='980' width='430' height='380' rx='46' fill='rgba(255,255,255,0.16)'/>
+</svg>

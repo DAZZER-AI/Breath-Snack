@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1290' height='2796'>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='0' y2='1'><stop offset='0%' stop-color='#161923'/><stop offset='100%' stop-color='#202735'/></linearGradient></defs>
+<rect width='100%' height='100%' fill='url(#bg)'/>
+<rect x='90' y='140' width='1110' height='2520' rx='110' fill='rgba(255,255,255,0.06)' stroke='rgba(255,255,255,0.35)'/>
+<circle cx='645' cy='1290' r='300' fill='#40CAA0' opacity='0.25'/>
+<circle cx='645' cy='1290' r='240' fill='#40CAA0' opacity='0.35'/>
+<circle cx='645' cy='1290' r='170' fill='#40CAA0' opacity='0.9'/>
+<text x='180' y='340' fill='white' font-size='76' font-family='Avenir, sans-serif'>Active Breathe</text>
+<text x='180' y='410' fill='#D7DBE8' font-size='40' font-family='Avenir, sans-serif'>Dynamic orb + phase guidance</text>
+<text x='540' y='1305' fill='white' font-size='56' font-family='Avenir, sans-serif'>INHALE</text>
+<text x='620' y='1380' fill='white' font-size='72' font-family='Avenir, sans-serif'>4</text>
+<rect x='180' y='2200' width='930' height='42' rx='21' fill='rgba(255,255,255,0.2)'/>
+<rect x='180' y='2200' width='510' height='42' rx='21' fill='#40CAA0'/>
+</svg>
